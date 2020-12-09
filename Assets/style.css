@@ -8,9 +8,9 @@ h3{font-style: italic; font-family: Georgia, 'Times New Roman', Times, serif;}
 
 h4{font-style: italic; font-family: Georgia, 'Times New Roman', Times, serif;}
 
-img.cust-padding{padding:9px 11px 0px 0px;}
+img.cust-padding{padding:11px 13px 0px 0px;}
 
-.brightness img:hover {border: 3px solid purple; padding: 0;}
+.brightness img:hover {border: 3px solid rgba(124, 6, 124, 0.897); padding: 0;}
 
 .permbrightness{opacity: .5;}
 
